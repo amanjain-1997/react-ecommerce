@@ -1,0 +1,170 @@
+Electronics
+
+{
+    "title": "Beats Studio Buds Wireless Earbuds",
+    "description": "IPX4-rated sweat and water resistant wireless earbuds",
+    "image": "/images/elec1.jpg",
+    "price": 3000,
+    "quantity": 5,
+    "category": "Electronics"
+}
+
+{
+    "title": "Bose Wireless Noise Cancelling Headphones",
+    "description": "The perfect balance of quiet, comfort, and sound",
+    "image": "/images/elec2.jpg",
+    "price": 1500,
+    "quantity": 3,
+    "category": "Electronics"
+}
+
+{
+    "title": "Blink Video Doorbell",
+    "description": "Two-way audio, HD video, motion and chime app alerts and Alexa enabled",
+    "image": "/images/elec3.jpg",
+    "price": 350,
+    "quantity": 4,
+    "category": "Electronics"
+}
+
+{
+    "title": "SAMSUNG Watch 4 40mm Smartwatch",
+    "description": "Smartwatch with ECG Monitor Tracker for Health, Sleep Cycles, and GPS Fall Detection",
+    "image": "/images/elec4.jpg",
+    "price": 4500,
+    "quantity": 5,
+    "category": "Electronics"
+}
+
+{
+    "title": "OnePlus Nord N20 5G",
+    "description": "The Nord N20 is the perfect 5G phone, featuring premium specs and an affordable price",
+    "image": "/images/elec5.jpg",
+    "price": 40000,
+    "quantity": 4,
+    "category": "Electronics"
+}
+
+{
+    "title": "Fire TV Gaming Bundle",
+    "description": "A high-performance controller made for Luna, Amazon’s cloud gaming service",
+    "image": "/images/elec6.jpg",
+    "price": 2500,
+    "quantity": 3,
+    "category": "Electronics"
+}
+
+Shoes
+
+{
+    "title": "Damyuan Mens Gym Shoes ",
+    "description": "Applicable occasions: jogging, running, fitness, walking, outdoor and other sports",
+    "image": "/images/shoes1.jpg",
+    "price": 1700,
+    "quantity": 4,
+    "category": "Shoes"
+}
+
+{
+    "title": "Impdoo Mens Athletic Running Sneaker",
+    "description": "The running shoes use air cushion, provide cushioning and support effect for the feet",
+    "image": "/images/shoes2.jpg",
+    "price": 3500,
+    "quantity": 3,
+    "category": "Shoes"
+}
+
+{
+    "title": "Jsleap Mens Running Shoes",
+    "description": "Keep your feet balanced, shock absorption and maximize ventilation",
+    "image": "/images/shoes3.jpg",
+    "price": 6000,
+    "quantity": 4,
+    "category": "Shoes"
+}
+
+{
+    "title": "DUORO Mens Athletic Running Shoes",
+    "description": "The shoes design improves performance and cares for skin, providing a comfortable fit",
+    "image": "/images/shoes4.jpg",
+    "price": 5000,
+    "quantity": 5,
+    "category": "Shoes"
+}
+
+{
+    "title": "Xidiso Mens Sneaker Running Shoes",
+    "description": "Anti-skid grooves on the bottom can increase the traction and provide a strong grip",
+    "image": "/images/shoes5.jpg",
+    "price": 7000,
+    "quantity": 4,
+    "category": "Shoes"
+}
+
+
+{
+    "title": "SANNAX Men's High Top Sneakers",
+    "description": "igh-quality rubber sole provides balance and stability",
+    "image": "/images/shoes6.jpg",
+    "price": 4500,
+    "quantity": 3,
+    "category": "Shoes"
+}
+
+Clothes
+
+{
+    "title": "Whitetails Men's Flannel Shirt",
+    "description": "The Shirt is the perfect weight to be worn alone or layered, indoors or outside",
+    "image": "/images/clothes1.jpg",
+    "price": 500,
+    "quantity": 4,
+    "category": "Clothes"
+}
+
+{
+    "title": "Men's Journeyman Shirt Jacket",
+    "description": "Double needle stitching and hand warmer side pockets",
+    "image": "/images/clothes2.jpg",
+    "price": 5500,
+    "quantity": 4,
+    "category": "Clothes"
+}
+
+{
+    "title": "Men's Battle The Storm Jacket",
+    "description": "Full flap, and elastic at the wrists with the 3 piece hood, provide warmth on windy days",
+    "image": "/images/clothes3.jpg",
+    "price": 2000,
+    "quantity": 3,
+    "category": "Clothes"
+}
+
+{
+    "title": "Men's Fleece Quarter Snap Pullover",
+    "description": "Made with a relaxed fit so you can wear it over the Non-Typical Long Sleeve T-Shirt",
+    "image": "/images/Clothes4.jpg",
+    "price": 1500,
+    "quantity": 5,
+    "category": "Clothes"
+}
+
+{
+    "title": "Men's Camo Outfitter Hoodie",
+    "description": "3 panel hood with drawstring keeps the wind out while the pocket provides hand warmth",
+    "image": "/images/Clothes5.jpg",
+    "price": 6000,
+    "quantity": 4,
+    "category": "Clothes"
+}
+
+{
+    "title": "Men's Casual Hoodies Sweatshirt Hipster",
+    "description": " Casual Sport style, Simple and Classic Design, Suitable for Fall, Spring and Winter",
+    "image": "/images/Clothes6.jpg",
+    "price": 7000,
+    "quantity": 3,
+    "category": "Clothes"
+}
+
+
